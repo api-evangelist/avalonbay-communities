@@ -2,7 +2,18 @@ aid: avalonbay-communities
 url: https://raw.githubusercontent.com/api-evangelist/avalonbay-communities/refs/heads/main/apis.yml
 name: AvalonBay Communities
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/avalonbay-communities.png
 description: 'Profile for AvalonBay Communities in the API Evangelist network. Fortune F1000 (rank 912).'
 created: '2026-05-05'
 modified: '2026-05-05'
